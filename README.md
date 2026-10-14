@@ -2,7 +2,7 @@
 
 A frontend-only social media post scheduler built with **Next.js 15 (App Router) + TypeScript**. Compose posts for Facebook, Instagram, X and TikTok, schedule them, and manage everything from one dashboard. Includes a marketing landing page, a password-gated demo, and light/dark themes.
 
-> **Live demo:** _add your Vercel link here_
+> **Live demo:** _https://flintzy-assigment.vercel.app/_
 >
 > **Demo password:** `cadence2026` (also shown on the landing page and right above the login field)
 
