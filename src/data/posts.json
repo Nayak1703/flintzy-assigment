@@ -1,0 +1,272 @@
+{
+  "anchor": "2026-01-01T00:00:00.000Z",
+  "posts": [
+    {
+      "id": "post_001",
+      "content": "First light on the north ridge. We packed the Halcyon 28L with everything for a sunrise summit — and still had room for the good coffee. ☕️⛰️ #GoOutside #HalcyonOutdoor",
+      "platforms": ["instagram", "facebook"],
+      "mediaUrl": "https://picsum.photos/seed/halcyon-ridge/1200/900",
+      "scheduledAt": "2025-12-28T09:00:00.000Z",
+      "status": "published"
+    },
+    {
+      "id": "post_002",
+      "content": "Hot take: the best trail snack is the one you forgot was in your hip-belt pocket. What's yours? 👇",
+      "platforms": ["x"],
+      "scheduledAt": "2025-12-28T13:15:00.000Z",
+      "status": "published"
+    },
+    {
+      "id": "post_003",
+      "content": "60 seconds to pitch the Drift 2P tent — blindfolded. Can you beat our product lead? 🏕️⏱️ #TentChallenge",
+      "platforms": ["tiktok"],
+      "mediaUrl": "https://picsum.photos/seed/halcyon-tent/900/1600",
+      "scheduledAt": "2025-12-28T18:00:00.000Z",
+      "status": "failed",
+      "errorMessage": "TikTok access token expired. Reconnect the @halcyon account and try again."
+    },
+    {
+      "id": "post_004",
+      "content": "Our Repair & Return program turns two this week. 🎉 Since launch, you've sent back 14,820 jackets, packs and sleeping bags — and we've given 11,203 of them a second life. Bring any Halcyon gear to a store this month and get 20% off your next trip.",
+      "platforms": ["facebook"],
+      "scheduledAt": "2025-12-29T10:00:00.000Z",
+      "status": "published"
+    },
+    {
+      "id": "post_005",
+      "content": "Repair > replace. Two years of Repair & Return, 11,203 pieces of gear saved from landfill. Thank you for keeping it going. 🧵",
+      "platforms": ["x", "facebook"],
+      "scheduledAt": "2025-12-29T12:30:00.000Z",
+      "status": "published"
+    },
+    {
+      "id": "post_006",
+      "content": "Golden hour, glacier lake, zero filter. Tag someone you'd hike 14 km for. 💛",
+      "platforms": ["instagram"],
+      "mediaUrl": "https://picsum.photos/seed/halcyon-lake/1200/1200",
+      "scheduledAt": "2025-12-29T17:45:00.000Z",
+      "status": "failed",
+      "errorMessage": "Instagram could not fetch the media URL (HTTP 404). Check that the image is publicly reachable."
+    },
+    {
+      "id": "post_007",
+      "content": "Packing list for a 3-day hut-to-hut trek, in under 30 seconds. Save this for later 📌",
+      "platforms": ["instagram", "tiktok"],
+      "mediaUrl": "https://picsum.photos/seed/halcyon-pack/1080/1350",
+      "scheduledAt": "2025-12-30T08:00:00.000Z",
+      "status": "published"
+    },
+    {
+      "id": "post_008",
+      "content": "Weather check before every trip. Every. Single. Time. 🌧️ Our guide to reading mountain forecasts is live on the blog.",
+      "platforms": ["x"],
+      "scheduledAt": "2025-12-30T11:20:00.000Z",
+      "status": "published"
+    },
+    {
+      "id": "post_009",
+      "content": "Our Winter Layering Guide is live — how to stay warm without overheating on the climb. Base, mid, shell. That's it. 🧥",
+      "platforms": ["x", "facebook"],
+      "scheduledAt": "2025-12-30T16:00:00.000Z",
+      "status": "failed",
+      "errorMessage": "X rejected the post as a duplicate of a recent post from @halcyonoutdoor."
+    },
+    {
+      "id": "post_010",
+      "content": "Behind the seams: every Halcyon shell is tested for 72 hours in our rain chamber before it ever sees a trail. Swipe to see the lab. 🌧️🔬",
+      "platforms": ["tiktok", "instagram"],
+      "mediaUrl": "https://picsum.photos/seed/halcyon-lab/1080/1350",
+      "scheduledAt": "2025-12-30T20:00:00.000Z",
+      "status": "failed",
+      "errorMessage": "TikTok requires a video for this account; image-only posts aren't supported yet."
+    },
+    {
+      "id": "post_011",
+      "content": "Community spotlight 🙌 Priya and her dog Mango just finished the full 210 km Coastal Path. 14 days, 2 pairs of socks per day, 1 very happy dog. Share your trip with #HalcyonCrew for a chance to be featured!",
+      "platforms": ["facebook", "instagram"],
+      "mediaUrl": "https://picsum.photos/seed/halcyon-dog/1200/900",
+      "scheduledAt": "2025-12-31T09:30:00.000Z",
+      "status": "published"
+    },
+    {
+      "id": "post_012",
+      "content": "POV: you finally got the campfire going on the first try 🔥",
+      "platforms": ["tiktok"],
+      "mediaUrl": "https://picsum.photos/seed/halcyon-fire/900/1600",
+      "scheduledAt": "2025-12-31T12:00:00.000Z",
+      "status": "published"
+    },
+    {
+      "id": "post_013",
+      "content": "New Year, new trails. We're closing all stores on Jan 1st so our team can get outside too. See you on the mountain. 🏔️",
+      "platforms": ["facebook"],
+      "scheduledAt": "2025-12-31T15:40:00.000Z",
+      "status": "failed",
+      "errorMessage": "Facebook Page permissions changed — the 'pages_manage_posts' permission is missing."
+    },
+    {
+      "id": "post_014",
+      "content": "Year in review: 1.2M km hiked by the #HalcyonCrew, 38 new trail partners, 0 single-use plastics in our packaging. Thank you. 💚",
+      "platforms": ["x"],
+      "scheduledAt": "2025-12-31T19:00:00.000Z",
+      "status": "published"
+    },
+    {
+      "id": "post_015",
+      "content": "Good morning from the trailhead ☀️ What's the first thing you pack?",
+      "platforms": ["x"],
+      "scheduledAt": "2026-01-01T07:30:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "post_016",
+      "content": "Meet the Ridgeline Down Jacket. 800-fill responsibly sourced down, 340 g, packs into its own pocket. Built for the cold mornings you'll talk about for years. Available now in 5 colors. 🧡",
+      "platforms": ["instagram", "facebook"],
+      "mediaUrl": "https://picsum.photos/seed/halcyon-jacket/1080/1350",
+      "scheduledAt": "2026-01-01T10:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "post_017",
+      "content": "Ranking every trail snack our team brought on the Alpine Loop. Number 1 will surprise you 🥨🍫🍌",
+      "platforms": ["tiktok", "instagram"],
+      "mediaUrl": "https://picsum.photos/seed/halcyon-snacks/900/1600",
+      "scheduledAt": "2026-01-01T13:30:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "post_018",
+      "content": "Ridgeline Down is here. 800-fill, 340 g, packs into its own pocket. Your cold-weather layer, solved. 🧥",
+      "platforms": ["x", "facebook"],
+      "scheduledAt": "2026-01-01T17:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "post_019",
+      "content": "Tonight at 8 PM: live Q&A with mountain guide Elena Sorensen about winter navigation, avalanche basics and how she packs for 10 days in the backcountry. Drop your questions in the comments and we'll answer as many as we can! ❄️🧭",
+      "platforms": ["facebook"],
+      "scheduledAt": "2026-01-01T21:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "post_020",
+      "content": "Blue hour on the plateau. Some mornings are worth the 4 AM alarm. 🌌",
+      "platforms": ["instagram"],
+      "mediaUrl": "https://picsum.photos/seed/halcyon-bluehour/1200/1200",
+      "scheduledAt": "2026-01-02T08:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "post_021",
+      "content": "Thread: 7 mistakes we see on almost every first winter hike (and how to avoid them) 🧵👇",
+      "platforms": ["x", "tiktok"],
+      "scheduledAt": "2026-01-02T11:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "post_022",
+      "content": "GIVEAWAY 🎁 Win a full Halcyon winter kit — Ridgeline Down, Summit Shell and a 45L pack. To enter: follow us, like this post and tag a hiking buddy. Ends Sunday at midnight. Good luck!",
+      "platforms": ["facebook", "instagram", "x"],
+      "scheduledAt": "2026-01-02T14:30:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "post_023",
+      "content": "How it's made: from recycled bottles to the shell of your next jacket ♻️🧵",
+      "platforms": ["tiktok"],
+      "mediaUrl": "https://picsum.photos/seed/halcyon-factory/900/1600",
+      "scheduledAt": "2026-01-02T18:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "post_024",
+      "content": "Trail conditions update for this weekend: snow above 1,800 m, microspikes recommended on the north routes. Stay safe out there. ❄️",
+      "platforms": ["x"],
+      "scheduledAt": "2026-01-03T09:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "post_025",
+      "content": "The Summit Shell in Fjord Blue. Fully seam-sealed, 3-layer, 20K waterproof rating. Made for the days the forecast gets it wrong. 🌧️",
+      "platforms": ["instagram", "facebook"],
+      "mediaUrl": "https://picsum.photos/seed/halcyon-shell/1080/1350",
+      "scheduledAt": "2026-01-03T12:15:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "post_026",
+      "content": "Day in the life of a Halcyon gear tester 🎒 (spoiler: it's mostly getting rained on)",
+      "platforms": ["tiktok", "instagram"],
+      "scheduledAt": "2026-01-03T16:45:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "post_027",
+      "content": "We're hiring! 🏔️ Halcyon is looking for a Community Lead to grow the #HalcyonCrew — organizing group hikes, trail clean-ups and our ambassador program. Remote-friendly, mountains strongly encouraged. Apply via the link in our bio or on halcyon.example/careers.",
+      "platforms": ["facebook"],
+      "scheduledAt": "2026-01-04T10:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "post_028",
+      "content": "Winter Sale starts NOW ❄️ Up to 30% off packs, shells and sleeping bags for the next 72 hours. Gear up for the season.",
+      "platforms": ["x", "instagram", "tiktok", "facebook"],
+      "mediaUrl": "https://picsum.photos/seed/halcyon-sale/1200/1200",
+      "scheduledAt": "2026-01-04T15:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "post_029",
+      "content": "Swipe for the 5 most underrated day hikes within 2 hours of the city. #3 has a hot spring at the end 👀♨️",
+      "platforms": ["instagram"],
+      "mediaUrl": "https://picsum.photos/seed/halcyon-hikes/1080/1350",
+      "scheduledAt": "2026-01-05T09:30:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "post_030",
+      "content": "Leave No Trace isn't a rule, it's a habit. Pack it in, pack it out. 🌲",
+      "platforms": ["x"],
+      "scheduledAt": "2026-01-05T13:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "post_031",
+      "content": "Join us Saturday for a community trail clean-up at Pine Hollow 🌲🧤 We'll bring gloves, bags and hot chocolate — you bring your crew. Meet at the north parking lot at 9 AM. Every volunteer gets a Halcyon patch!",
+      "platforms": ["facebook", "x"],
+      "scheduledAt": "2026-01-06T11:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "post_032",
+      "content": "Testing the Drift 2P tent in 80 km/h winds. Did it survive? Watch till the end 🌬️⛺",
+      "platforms": ["tiktok"],
+      "mediaUrl": "https://picsum.photos/seed/halcyon-wind/900/1600",
+      "scheduledAt": "2026-01-07T10:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "post_033",
+      "content": "Tag the friend who always says \"it's only a short hike\" 😅🥾",
+      "platforms": ["instagram", "facebook"],
+      "mediaUrl": "https://picsum.photos/seed/halcyon-friends/1200/900",
+      "scheduledAt": "2026-01-08T09:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "post_034",
+      "content": "Big news next week. Here's a hint: it's lighter than you think. 🤫",
+      "platforms": ["x", "facebook"],
+      "scheduledAt": "2026-01-10T12:00:00.000Z",
+      "status": "scheduled"
+    },
+    {
+      "id": "post_035",
+      "content": "Introducing the Halcyon Ultralight 30 — our lightest pack ever at 680 g. Built with recycled ripstop and a frame that actually breathes. Launching today. 🎒✨",
+      "platforms": ["instagram", "tiktok", "x"],
+      "mediaUrl": "https://picsum.photos/seed/halcyon-ultralight/1080/1350",
+      "scheduledAt": "2026-01-13T18:30:00.000Z",
+      "status": "scheduled"
+    }
+  ]
+}
